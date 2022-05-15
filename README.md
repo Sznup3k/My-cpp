@@ -1,6 +1,8 @@
-# My-cpp
-My c++ repository
-*I did not know that you can do so many fun things with md files*
-**A bit of bold action**
-> It's really similar to discord text editing
-'print("And you can apparently also write code here")'
+## My-cpp
+# My c++ repository
+I use VS Code with a CMake extension
+This repository contains 
+ - my code for the Polish Junior Olimpiad in Informatics (OIJ folder)
+ - my templates
+ - this readme file
+
